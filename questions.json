@@ -1,0 +1,12 @@
+{
+    "id": "3511",
+    "parent_exercise_id": null,
+    "name": "0 and 1",
+    "slug": "number-row-tg__keys_0_1",
+    "sequence_num": 0,
+    "review_type": "manual",
+    "solution": null,
+    "content": "[{\"type\":\"markdown\",\"value\":\"\\n\\n## Numpad keys, keys 0 and 1\\n\\n \\n\\nNow, we'll practice the keys `0` and `1`. \\n\\nFind the numpad on farthest right bottom of your keyboard and try the following keys with your right hand fingers. \\nAs an exercise, type the following text without making any mistakes. \"},{\"type\":\"practicetyping\",\"value\":[\"0\",\",\",\"1\",\",\",\"1\",\",\",\"1\",\",\",\"0\",\",\",\"1\",\",\",\"0\",\",\",\"0\",\",\",\"1\",\",\",\"0\",\",\",\"1\",\",\",\"1\",\",\",\"0\",\",\",\"1\",\",\",\"0\",\",\",\"1\",\",\",\"0\",\",\",\"1\",\",\",\"1\",\",\",\"1\",\",\",\"0\",\",\",\"1\",\",\",\"0\",\",\",\"0\",\",\",\"1\"]}]",
+    "submission_type": null,
+    "github_link": "https://github.com/navgurukul/newton/tree/master/number-row-tg/keys_0_1.md"
+}
